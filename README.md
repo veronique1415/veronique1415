@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/veronique1415](https://github.com/veronique1415)
 
-- 💬 Ask me about **React, vanilla JS, mySQL, SCSS, HTML, Bootstrap**
+- 💬 Ask me about **React, vanilla JS, mySQL, SCSS, HTML**
 
 - 📫 How to reach me **https://www.linkedin.com/in/veronique-desrochers/?locale=en_US**
 
